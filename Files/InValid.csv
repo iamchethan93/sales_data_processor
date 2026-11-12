@@ -1,0 +1,5 @@
+transaction_id,customer,product,quantity,price,Reason
+106,Arjun,Laptop,-1,50000,"Quantity must be greater than 0, price cannot be negative"
+107,Sharath,Mouse,0,2000,"Quantity must be greater than 0, price cannot be negative"
+108,Madhu,Wire,abc,1000,Quantity or price is not numeric
+108,Yogi,Bat,,2000,Quantity or price is not numeric

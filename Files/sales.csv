@@ -1,0 +1,10 @@
+transaction_id,customer,product,quantity,price
+101,Amit,Laptop,1,55000
+102,Priya,Mouse,2,500
+103,Rahul,Keyboard,1,1500
+104,Amit,Monitor,2,12000
+105,Priya,Mouse,1,500
+106,Arjun,Laptop,-1,50000
+107,Sharath,Mouse,0,2000
+108,Madhu,Wire,abc,1000
+108,Yogi,Bat,,2000
